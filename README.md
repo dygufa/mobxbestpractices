@@ -197,3 +197,13 @@ class observablePromise<T> {
 ## Utilizar [mobx-react-router](https://github.com/alisd23/mobx-react-router) ou alguma forma de sincronizar URL com o estado
 
 A view deve receber todas informações do seu "gerenciador de estado", isso facilita testes e também renderização no servidor. Por conta disso é importante que o estado da URL esteja presente nas Stores.
+
+
+##
+
+Referências:
+
+* [https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140](https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140)
+* [https://mobx.js.org/best/store.html](https://mobx.js.org/best/store.html)
+* [http://mobx-patterns.surge.sh/](http://mobx-patterns.surge.sh/)
+* [https://mobx.js.org/best/pitfalls.html](https://mobx.js.org/best/pitfalls.html)
