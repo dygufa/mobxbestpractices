@@ -2,7 +2,7 @@
 
 ## Usar uma RootStore
 
-Para acessar uma store através de outra store uma boa prática é usar uma "RootStore". Tal recurso permite que todas as unidades de estado do Mobx compartilhem um escopo comum, possibilitando acesso entre las:
+Para acessar uma store através de outra store uma boa prática é usar uma "RootStore". Tal recurso permite que todas as unidades de estado do Mobx compartilhem um escopo comum, possibilitando acesso entre elas:
 
 ```
 class RootStore {
